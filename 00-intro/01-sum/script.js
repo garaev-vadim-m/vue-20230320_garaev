@@ -1,4 +1,6 @@
 import { sum } from './sum.js';
+//Решение на ts npm run test проходит
+// import { sum } from './sum.ts';
 
 const a = document.querySelector('input[name=a]');
 const b = document.querySelector('input[name=b]');
